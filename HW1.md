@@ -34,3 +34,4 @@ degree_dist = {0: 0.125, 1: 0.125, 2: 0.25, 3: 0.375, 4: 0.125}
 A[2,1] is the integer in the second row and first column, which is 0.
 
 #### 6. How many nodes in Graph 2 have an out-degree of 2?
+4, out degree is where the arrows are pointing away from a node
