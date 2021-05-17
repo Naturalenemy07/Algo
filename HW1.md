@@ -7,5 +7,6 @@
 0 because node 7 isn't connected to any other node with an edge.
 #### 2. If A is the adjacency matrix representation for the undirected graph, what is the value of A[2,6]
 ![](https://github.com/Naturalenemy07/Algo/blob/main/adjmtx.PNG)
+*Adjacency matrix representing Graph 1*
 
 #### 3. What is the Python dictionary representation of the degree distribution  for Graph 1
