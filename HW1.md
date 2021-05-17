@@ -1,8 +1,6 @@
 ## Algorithmic Thinking by Rice University on Coursera. 
 #### HW 1
 
-Use image 1 for question 1 - 3
-
 ![](https://github.com/Naturalenemy07/Algo/blob/main/undirgraph.jpg)
 *Graph 1*
 
