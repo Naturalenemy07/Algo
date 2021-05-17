@@ -17,3 +17,6 @@ The sum of the values needs to be equal to 1 since these are probabilities. The 
 ```
 degree_dist = {0: 0.125, 1: 0.125, 2: 0.25, 3: 0.375, 4: 0.125}
 ```
+
+![](https://github.com/Naturalenemy07/Algo/blob/main/dirgraphh.png)
+*Graph 2*
