@@ -20,7 +20,7 @@ degree_dist = {0: 0.125, 1: 0.125, 2: 0.25, 3: 0.375, 4: 0.125}
 ```
 
 ![](https://github.com/Naturalenemy07/Algo/blob/main/dirgraph.PNG)
-    *Graph 2*
+                                                                                                                                                                             *Graph 2*
 
 #### 4. How many nodes in Graph 2 have a in-degree of 2?
 5, in degree is where the arrows are pointing torward a node
