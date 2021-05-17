@@ -12,10 +12,8 @@
 A[2,6] is the integer in the second row and sixth column, which is 0
 
 #### 3. What is the Python dictionary representation of the degree distribution  for Graph 1
-The sum of the values needs to be equal to 1 since these are probabilities.  There are 9 total edges and since it is an undirected graph, 9x2 = 18 total connections.  
+The sum of the values needs to be equal to 1 since these are probabilities. The keys will be the degrees, and the values will be a probability of nodes with that degree.  There are 8 total nodes so if one node has a degree of 0, then the value for 0 for be 1/8 or 0.125.
 
 ```
-dict = {0:(3/18), 1:(3/18), 2:(3/18), 3:(2/18), 4:(2/18), 5:(1/18), 6:(4/18), 7:0}
-    
-dict = {0:0.167, 1:0.167, 2:0.167, 3:0.111, 4:0.111 , 5:0.056, 6:0.222, 7:0}
+degree_dist = {0: 0.125, 1: 0.125, 2: 0.25, 3: 0.375, 4: 0.125}
 ```
