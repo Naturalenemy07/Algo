@@ -18,5 +18,12 @@ The sum of the values needs to be equal to 1 since these are probabilities. The 
 degree_dist = {0: 0.125, 1: 0.125, 2: 0.25, 3: 0.375, 4: 0.125}
 ```
 
-![](https://github.com/Naturalenemy07/Algo/blob/main/dirgraphh.PNG)
+![](https://github.com/Naturalenemy07/Algo/blob/main/dirgraph.PNG)
 *Graph 2*
+
+#### 4. How many nodes in Graph 2 have a in-degree of 2?
+5
+
+#### 5. Ff A is the adjacency matrix of Graph 2, what is the value of entry A[2,1]?
+
+#### 6. How many nodes in Graph 2 have an out-degree of 2?
