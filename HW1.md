@@ -7,6 +7,6 @@
 0 because node 7 isn't connected to any other node with an edge.
 #### 2. If A is the adjacency matrix representation for the undirected graph, what is the value of A[2,6]
 
-![equation](https://latex.codecogs.com/svg.latex?%5Cbegin%7Bbmatrix%7D01001010%5C%5C10100010%5C%5C01010010%5C%5C00100010%5C%5C10000000%5C%5C00001000%5C%5C11110000%5C%5C00000000%5Cend%7Bbmatrix%7D)
+![equation]\begin{bmatrix}01001010\\10100010\\01010010\\00100010\\10000000\\00001000\\11110000\\00000000\end{bmatrix}
 
 #### 3. What is the Python dictionary representation of the degree distribution  for Graph 1
