@@ -35,3 +35,9 @@ A[2,1] is the integer in the second row and first column, which is 0.
 
 #### 6. How many nodes in Graph 2 have an out-degree of 2?
 4, out degree is where the arrows are pointing away from a node
+
+#### 7. What is the maximum possible degree of a node in an undirected graph *g* with length *n*?
+A particular node can be connected by an edge to every other node *(n-1)* nodes.  
+
+#### 8. What is the maximum possible number of edges in an undirected graph *g* with length *n*?
+A node can be connected to a maximum or *n-1* nodes.  Multiplying this by every node (if we assume a directed graph) leads to *n(n-1)* edges.  Dividing by two converts this to the number of edges in an undirected graph since each directed node has a counter parallel partner.  Together they can count as a undirected edge.  Therefore the answer is *n(n-1)/2*
